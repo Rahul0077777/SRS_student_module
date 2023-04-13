@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    border: 2px silid red;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+h1 {
+    margin-left: 90px;
+}
+
+.stu {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    background-color: #337ab7;
+    border-color: #337ab7;
+    border-bottom: 0;
+    border-bottom-width: 0px;
+    border-bottom-style: initial;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.class-name {
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-size: 20px;
+    /* border: 5px solid blue; */
+}
+
+.student {
+    border: 10px solid #337ab7;
+}
+
+.reg {
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+.student-name {
+    padding: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+.color {
+    color: white;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    line-break: 12px;
+}
+
+#name {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#prog {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#regno {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#academic {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#stu {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+#sem {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.basket {
+    /* border: 2px solid #337ab6;
+box-shadow: 1px 1px 6px #337ab6; */
+    color: #337ab7;
+    border-bottom: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: initial;
+    border-bottom-color: initial;
+    padding-bottom: 5px;
+    align-content: center;
+    font-size: xx-large;
+}
+
+.bsk {
+    /* box-shadow: 1px 1px 6px #337ab6; */
+    border: 2px solid #337ab6;
+    box-shadow: 1px 1px 6px #337ab6;
+    background-color: #fff;
+    color: #3f51b5;
+    font-size: x-large;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+h1 {
+    margin-left: 0px;
+}
+
+.code {
+    background-color: #337ab7;
+    color: white;
+    font-size: xx-large;
+    border-top: 0px;
+}
+
+.course {
+    margin-left: 5px;
+    border-bottom: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: initial;
+    border-bottom-color: initial;
+    padding-bottom: 5px;
+    /* align-content: center; */
+    font-size: xx-large;
+    /* text-align: center; */
+    box-shadow: 0 7px 8px 0 rgba(236, 225, 225, 0.975);
+}
+
+.apl {
+    color: #8410b0;
+    margin-left: 100px;
+}
